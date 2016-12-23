@@ -3,7 +3,7 @@
 # Conjuntos dos numeros naturais
 def naturais_sem_zero():
 	n = 1
-	print("Conjuntos do N(Naturais sem Zero)")
+	print("Conjuntos do N*(Naturais sem Zero)")
 	while(n < 15):
 		print(n)
 		n = n + 1
@@ -14,7 +14,7 @@ def naturais_sem_zero():
 # Conjuntos dos numeros naturais
 def naturais_com_zero():
 	n = 0	
-	print("Conjuntos do N*(Naturais com Zero)")
+	print("Conjuntos do N(Naturais com Zero)")
 	while(n < 15):
 		print(n)
 		n = n + 1
